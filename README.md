@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome%20to%20my%20channel&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=#ffcdd2&height=300&section=header&text=Welcome%20to%20my%20channel&fontSize=60)
+
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+
+
 
