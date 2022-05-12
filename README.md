@@ -1,4 +1,4 @@
-### Hi there👋 Welcome to my channel❣
+### Hi there👋 I'm seunghyeon 
 
 
 <!--
