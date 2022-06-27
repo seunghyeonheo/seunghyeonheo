@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- `Front-End` : JavaScript, HTML/CSS
+- `Back-End` : Java spring
+- `Data`: SQL
 
 
 
