@@ -1,4 +1,4 @@
-### Hi there👋 I'm seunghyeon 
+## Hi there👋 I'm seunghyeon 
 
 
 <!--
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning ...
+### 🌱I’m currently learning ...
 - `Front-End` : JavaScript, HTML/CSS
 - `Back-End` : Java spring
 - `Data`: SQL
