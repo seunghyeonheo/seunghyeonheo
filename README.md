@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### 🌱I’m currently learning ...
-- Front-End : `JavaScript` `HTML` `CSS` `React` `vue.js`
+- Front-End : `JavaScript` `HTML` `CSS` `React` `Vue.js`
 - Back-End : `Java` `spring`
 - Data : `SQL`
 
