@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 
 ### 🌱I’m currently learning ...
-- `Front-End` : <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-- `Back-End` : Java spring
-- `Data`: SQL
+- Front-End : `JavaScript` `HTML` `CSS` `React` `vue.js`
+- Back-End : `Java` `spring`
+- Data : `SQL`
 
 
 
