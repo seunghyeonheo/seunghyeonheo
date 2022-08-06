@@ -1,4 +1,4 @@
-## Hi there👋 I'm seunghyeon learning programming
+## Hi there👋 I'm seunghyeon aiming to be a frontend developer
 
 
 <!--
