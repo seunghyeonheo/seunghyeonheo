@@ -1,4 +1,4 @@
-## Hi there👋 I'm seunghyeon 
+## Hi there👋 I'm seunghyeon learning programming
 
 
 <!--
