@@ -1,4 +1,4 @@
-## Hi there👋 I'm Aiming to be a web developer
+## Hi there👋 I'm learning programming
 
 
 <!--
